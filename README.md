@@ -3,4 +3,6 @@ Hello Everyone repo for Udemy Git Course
 
 This is my first project on github 
 
-Thank you
+Best wishes,
+
+Thank you!
